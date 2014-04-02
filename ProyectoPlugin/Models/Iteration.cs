@@ -7,5 +7,6 @@ namespace ProyectoPlugin.Models
 {
     public class Iteration
     {
+
     }
 }
